@@ -1,19 +1,27 @@
 {
+  "model": "opus",
+  "effortLevel": "high",
+  "autoCompactWindow": 400000,
+
+  "permissions": {
+    "defaultMode": "auto",
+    "ask": ["Bash(git push:*)"]
+  },
+
   "attribution": {
     "commit": "",
     "pr": ""
   },
-  "permissions": {
-    "ask": ["Bash(git push:*)"],
-    "defaultMode": "auto"
-  },
-  "model": "opus[1m]",
+
   "worktree": {
     "baseRef": "fresh"
   },
+
   "enableWorkflows": false,
-  "effortLevel": "high",
+  "remoteControlAtStartup": true,
+
   "theme": "dark",
+  "outputStyle": "concise",
   "verbose": true,
-  "remoteControlAtStartup": true
+  "showThinkingSummaries": true
 }
