@@ -1,0 +1,85 @@
+foreground = "#b3b1ad"
+background = "#0a0e14"
+palette-0 = "#01060e"
+palette-1 = "#ea6c73"
+palette-2 = "#91b362"
+palette-3 = "#f9af4f"
+palette-4 = "#53bdfa"
+palette-5 = "#fae994"
+palette-6 = "#90e1c6"
+palette-7 = "#c7c7c7"
+palette-8 = "#686868"
+palette-9 = "#f07178"
+palette-10 = "#c2d94c"
+palette-11 = "#ffb454"
+palette-12 = "#59c2ff"
+palette-13 = "#ffee99"
+palette-14 = "#95e6cb"
+
+profile = "18df78f09f0263e400000000"
+profile = "18df78f09f1e80c400000001"
+profile = "18df78f09f35be6000000002"
+profile = "18df78f09f541bd000000003"
+profile = "18df78f09f724b2800000004"
+profile = "18df78f09f8c727800000005"
+default-profile = "18df78f09f724b2800000004"
+
+language = "english"
+
+# window-layout = "tabs-top" (reset to default)
+
+theme = "Glass Dark"
+
+# palette-15 = "#fdfff1" (reset to default)
+
+theme-dark = "Ayu Dark"
+
+# selection-foreground = "#fdfff1" (reset to default)
+# selection-background = "#57584f" (reset to default)
+# cursor-color = "#c0c1b5" (reset to default)
+# cursor-text = "#8d8e82" (reset to default)
+
+font-size = 14
+
+# text-underline = false (reset to default)
+
+font-ligatures = "calt"
+
+# show-tray-icon = false (reset to default)
+
+window-profile = "18df78f09f724b2800000004"
+
+# omit-otty-prefix = true (reset to default)
+
+cli-allow-overwrite = true
+
+privilege-sound-shell = false
+
+# privilege-notification-on-error = false (reset to default)
+
+# privilege-notification-shell = false (reset to default)
+
+autocomplete-shortcut = "tab+right-arrow"
+
+focus-follows-mouse = true
+
+editor-visible-whitespace = true
+
+editor-tab-size = 2
+
+cursor-style = "bar"
+
+cursor-style-blink = "default_on"
+
+cursor-animation = "smooth"
+
+# shell-integration = false (reset to default)
+
+# window-working-directory = "home" (reset to default)
+
+clipboard-trim-trailing-spaces = true
+
+details-panel-width = 402
+
+keybind = "ctrl+shift+right=split_right"
+keybind = "ctrl+shift+down=split_down"

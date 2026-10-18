@@ -117,9 +117,6 @@ source $ZSH/oh-my-zsh.sh
 
 [ -f "$HOME/.local/bin/env" ] && . "$HOME/.local/bin/env"
 
-alias ls='eza'
-alias ll='eza --git -T'
-
 # fnm
 FNM_PATH="/home/rulerchen/.local/share/fnm"
 if [ -d "$FNM_PATH" ]; then
